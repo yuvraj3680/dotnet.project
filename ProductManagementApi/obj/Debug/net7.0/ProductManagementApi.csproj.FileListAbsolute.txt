@@ -1,0 +1,102 @@
+E:\7.Dotnet\Dotnet Full Stack Self\ProductManagementApi\obj\Debug\net7.0\ProductManagementApi.csproj.AssemblyReference.cache
+E:\7.Dotnet\Dotnet Full Stack Self\ProductManagementApi\obj\Debug\net7.0\ProductManagementApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\7.Dotnet\Dotnet Full Stack Self\ProductManagementApi\obj\Debug\net7.0\ProductManagementApi.AssemblyInfoInputs.cache
+E:\7.Dotnet\Dotnet Full Stack Self\ProductManagementApi\obj\Debug\net7.0\ProductManagementApi.AssemblyInfo.cs
+E:\7.Dotnet\Dotnet Full Stack Self\ProductManagementApi\obj\Debug\net7.0\ProductManagementApi.csproj.CoreCompileInputs.cache
+E:\7.Dotnet\Dotnet Full Stack Self\ProductManagementApi\obj\Debug\net7.0\ProductManagementApi.MvcApplicationPartsAssemblyInfo.cs
+E:\7.Dotnet\Dotnet Full Stack Self\ProductManagementApi\obj\Debug\net7.0\ProductManagementApi.MvcApplicationPartsAssemblyInfo.cache
+E:\7.Dotnet\Dotnet Full Stack Self\ProductManagementApi\bin\Debug\net7.0\appsettings.Development.json
+E:\7.Dotnet\Dotnet Full Stack Self\ProductManagementApi\bin\Debug\net7.0\appsettings.json
+E:\7.Dotnet\Dotnet Full Stack Self\ProductManagementApi\bin\Debug\net7.0\ProductManagementApi.exe
+E:\7.Dotnet\Dotnet Full Stack Self\ProductManagementApi\bin\Debug\net7.0\ProductManagementApi.deps.json
+E:\7.Dotnet\Dotnet Full Stack Self\ProductManagementApi\bin\Debug\net7.0\ProductManagementApi.runtimeconfig.json
+E:\7.Dotnet\Dotnet Full Stack Self\ProductManagementApi\bin\Debug\net7.0\ProductManagementApi.dll
+E:\7.Dotnet\Dotnet Full Stack Self\ProductManagementApi\bin\Debug\net7.0\ProductManagementApi.pdb
+E:\7.Dotnet\Dotnet Full Stack Self\ProductManagementApi\bin\Debug\net7.0\Google.Protobuf.dll
+E:\7.Dotnet\Dotnet Full Stack Self\ProductManagementApi\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+E:\7.Dotnet\Dotnet Full Stack Self\ProductManagementApi\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+E:\7.Dotnet\Dotnet Full Stack Self\ProductManagementApi\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+E:\7.Dotnet\Dotnet Full Stack Self\ProductManagementApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\7.Dotnet\Dotnet Full Stack Self\ProductManagementApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\7.Dotnet\Dotnet Full Stack Self\ProductManagementApi\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\7.Dotnet\Dotnet Full Stack Self\ProductManagementApi\bin\Debug\net7.0\MySql.Data.dll
+E:\7.Dotnet\Dotnet Full Stack Self\ProductManagementApi\bin\Debug\net7.0\ZstdNet.dll
+E:\7.Dotnet\Dotnet Full Stack Self\ProductManagementApi\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+E:\7.Dotnet\Dotnet Full Stack Self\ProductManagementApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\7.Dotnet\Dotnet Full Stack Self\ProductManagementApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\7.Dotnet\Dotnet Full Stack Self\ProductManagementApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\7.Dotnet\Dotnet Full Stack Self\ProductManagementApi\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\7.Dotnet\Dotnet Full Stack Self\ProductManagementApi\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\7.Dotnet\Dotnet Full Stack Self\ProductManagementApi\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\7.Dotnet\Dotnet Full Stack Self\ProductManagementApi\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\7.Dotnet\Dotnet Full Stack Self\ProductManagementApi\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\7.Dotnet\Dotnet Full Stack Self\ProductManagementApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\7.Dotnet\Dotnet Full Stack Self\ProductManagementApi\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\7.Dotnet\Dotnet Full Stack Self\ProductManagementApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\7.Dotnet\Dotnet Full Stack Self\ProductManagementApi\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\7.Dotnet\Dotnet Full Stack Self\ProductManagementApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\7.Dotnet\Dotnet Full Stack Self\ProductManagementApi\obj\Debug\net7.0\staticwebassets\msbuild.ProductManagementApi.Microsoft.AspNetCore.StaticWebAssets.props
+E:\7.Dotnet\Dotnet Full Stack Self\ProductManagementApi\obj\Debug\net7.0\staticwebassets\msbuild.build.ProductManagementApi.props
+E:\7.Dotnet\Dotnet Full Stack Self\ProductManagementApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ProductManagementApi.props
+E:\7.Dotnet\Dotnet Full Stack Self\ProductManagementApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ProductManagementApi.props
+E:\7.Dotnet\Dotnet Full Stack Self\ProductManagementApi\obj\Debug\net7.0\staticwebassets.pack.json
+E:\7.Dotnet\Dotnet Full Stack Self\ProductManagementApi\obj\Debug\net7.0\staticwebassets.build.json
+E:\7.Dotnet\Dotnet Full Stack Self\ProductManagementApi\obj\Debug\net7.0\staticwebassets.development.json
+E:\7.Dotnet\Dotnet Full Stack Self\ProductManagementApi\obj\Debug\net7.0\scopedcss\bundle\ProductManagementApi.styles.css
+E:\7.Dotnet\Dotnet Full Stack Self\ProductManagementApi\obj\Debug\net7.0\ProductManagementApi.csproj.CopyComplete
+E:\7.Dotnet\Dotnet Full Stack Self\ProductManagementApi\obj\Debug\net7.0\ProductManagementApi.dll
+E:\7.Dotnet\Dotnet Full Stack Self\ProductManagementApi\obj\Debug\net7.0\refint\ProductManagementApi.dll
+E:\7.Dotnet\Dotnet Full Stack Self\ProductManagementApi\obj\Debug\net7.0\ProductManagementApi.pdb
+E:\7.Dotnet\Dotnet Full Stack Self\ProductManagementApi\obj\Debug\net7.0\ProductManagementApi.genruntimeconfig.cache
+E:\7.Dotnet\Dotnet Full Stack Self\ProductManagementApi\obj\Debug\net7.0\ref\ProductManagementApi.dll
+G:\New folder\Dotnet_Full_stack_project\ProductManagementApi\bin\Debug\net7.0\appsettings.Development.json
+G:\New folder\Dotnet_Full_stack_project\ProductManagementApi\bin\Debug\net7.0\appsettings.json
+G:\New folder\Dotnet_Full_stack_project\ProductManagementApi\bin\Debug\net7.0\ProductManagementApi.exe
+G:\New folder\Dotnet_Full_stack_project\ProductManagementApi\bin\Debug\net7.0\ProductManagementApi.deps.json
+G:\New folder\Dotnet_Full_stack_project\ProductManagementApi\bin\Debug\net7.0\ProductManagementApi.runtimeconfig.json
+G:\New folder\Dotnet_Full_stack_project\ProductManagementApi\bin\Debug\net7.0\ProductManagementApi.dll
+G:\New folder\Dotnet_Full_stack_project\ProductManagementApi\bin\Debug\net7.0\ProductManagementApi.pdb
+G:\New folder\Dotnet_Full_stack_project\ProductManagementApi\bin\Debug\net7.0\Google.Protobuf.dll
+G:\New folder\Dotnet_Full_stack_project\ProductManagementApi\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+G:\New folder\Dotnet_Full_stack_project\ProductManagementApi\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+G:\New folder\Dotnet_Full_stack_project\ProductManagementApi\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+G:\New folder\Dotnet_Full_stack_project\ProductManagementApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+G:\New folder\Dotnet_Full_stack_project\ProductManagementApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+G:\New folder\Dotnet_Full_stack_project\ProductManagementApi\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+G:\New folder\Dotnet_Full_stack_project\ProductManagementApi\bin\Debug\net7.0\MySql.Data.dll
+G:\New folder\Dotnet_Full_stack_project\ProductManagementApi\bin\Debug\net7.0\ZstdNet.dll
+G:\New folder\Dotnet_Full_stack_project\ProductManagementApi\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+G:\New folder\Dotnet_Full_stack_project\ProductManagementApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\New folder\Dotnet_Full_stack_project\ProductManagementApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\New folder\Dotnet_Full_stack_project\ProductManagementApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\New folder\Dotnet_Full_stack_project\ProductManagementApi\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+G:\New folder\Dotnet_Full_stack_project\ProductManagementApi\bin\Debug\net7.0\System.Drawing.Common.dll
+G:\New folder\Dotnet_Full_stack_project\ProductManagementApi\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+G:\New folder\Dotnet_Full_stack_project\ProductManagementApi\bin\Debug\net7.0\System.Security.Permissions.dll
+G:\New folder\Dotnet_Full_stack_project\ProductManagementApi\bin\Debug\net7.0\System.Windows.Extensions.dll
+G:\New folder\Dotnet_Full_stack_project\ProductManagementApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+G:\New folder\Dotnet_Full_stack_project\ProductManagementApi\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\New folder\Dotnet_Full_stack_project\ProductManagementApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\New folder\Dotnet_Full_stack_project\ProductManagementApi\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\New folder\Dotnet_Full_stack_project\ProductManagementApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+G:\New folder\Dotnet_Full_stack_project\ProductManagementApi\obj\Debug\net7.0\ProductManagementApi.csproj.AssemblyReference.cache
+G:\New folder\Dotnet_Full_stack_project\ProductManagementApi\obj\Debug\net7.0\ProductManagementApi.GeneratedMSBuildEditorConfig.editorconfig
+G:\New folder\Dotnet_Full_stack_project\ProductManagementApi\obj\Debug\net7.0\ProductManagementApi.AssemblyInfoInputs.cache
+G:\New folder\Dotnet_Full_stack_project\ProductManagementApi\obj\Debug\net7.0\ProductManagementApi.AssemblyInfo.cs
+G:\New folder\Dotnet_Full_stack_project\ProductManagementApi\obj\Debug\net7.0\ProductManagementApi.csproj.CoreCompileInputs.cache
+G:\New folder\Dotnet_Full_stack_project\ProductManagementApi\obj\Debug\net7.0\ProductManagementApi.MvcApplicationPartsAssemblyInfo.cs
+G:\New folder\Dotnet_Full_stack_project\ProductManagementApi\obj\Debug\net7.0\ProductManagementApi.MvcApplicationPartsAssemblyInfo.cache
+G:\New folder\Dotnet_Full_stack_project\ProductManagementApi\obj\Debug\net7.0\staticwebassets\msbuild.ProductManagementApi.Microsoft.AspNetCore.StaticWebAssets.props
+G:\New folder\Dotnet_Full_stack_project\ProductManagementApi\obj\Debug\net7.0\staticwebassets\msbuild.build.ProductManagementApi.props
+G:\New folder\Dotnet_Full_stack_project\ProductManagementApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ProductManagementApi.props
+G:\New folder\Dotnet_Full_stack_project\ProductManagementApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ProductManagementApi.props
+G:\New folder\Dotnet_Full_stack_project\ProductManagementApi\obj\Debug\net7.0\staticwebassets.pack.json
+G:\New folder\Dotnet_Full_stack_project\ProductManagementApi\obj\Debug\net7.0\staticwebassets.build.json
+G:\New folder\Dotnet_Full_stack_project\ProductManagementApi\obj\Debug\net7.0\staticwebassets.development.json
+G:\New folder\Dotnet_Full_stack_project\ProductManagementApi\obj\Debug\net7.0\scopedcss\bundle\ProductManagementApi.styles.css
+G:\New folder\Dotnet_Full_stack_project\ProductManagementApi\obj\Debug\net7.0\ProductManagementApi.csproj.CopyComplete
+G:\New folder\Dotnet_Full_stack_project\ProductManagementApi\obj\Debug\net7.0\ProductManagementApi.dll
+G:\New folder\Dotnet_Full_stack_project\ProductManagementApi\obj\Debug\net7.0\refint\ProductManagementApi.dll
+G:\New folder\Dotnet_Full_stack_project\ProductManagementApi\obj\Debug\net7.0\ProductManagementApi.pdb
+G:\New folder\Dotnet_Full_stack_project\ProductManagementApi\obj\Debug\net7.0\ProductManagementApi.genruntimeconfig.cache
+G:\New folder\Dotnet_Full_stack_project\ProductManagementApi\obj\Debug\net7.0\ref\ProductManagementApi.dll
